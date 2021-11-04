@@ -1,0 +1,1 @@
+param set linux_cmd_line "console=ttySAC0 root=/dev/nfs nfsroot=192.168.1.111:/opt/FriendlyARM/QQ2440/root_nfs ip=192.168.1.70:192.168.1.111:192.168.1.111:255.255.255.0:sbc2440.arm9.net:eth0:off"

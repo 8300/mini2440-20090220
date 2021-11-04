@@ -1,0 +1,11 @@
+Tftpd32 is a bundle including a full featured 
+TFTP server, a TFTP client, a DHCP server and 
+a syslog server.
+Tftpd32 is designed for Windows 95, NT and XP. 
+
+The executable file takes less than 100kB and 
+requires no DLL.
+(except wsock32.dll). 
+
+Freeware by Ph. jounin
+http://tftp32.jounin.net
